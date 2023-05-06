@@ -1,0 +1,3 @@
+/home/dadu/CLionProjects/ServerTEC/cmake-build-debug/CMakeFiles/ServerTEC.dir
+/home/dadu/CLionProjects/ServerTEC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dadu/CLionProjects/ServerTEC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
